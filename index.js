@@ -4,3 +4,10 @@ const adverb = ["absolutly", "truly", "definitely", "doubtlessly", "unquestionab
 
 const adjective = ["a sapaperra", "a pirobo", "a gonococo", "a carechimba", "a cacorro"]; 
 
+const ranNum = () => {
+    return Math.floor(Math.random() * 5); 
+}
+  
+  
+  
+  
