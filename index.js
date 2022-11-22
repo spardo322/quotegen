@@ -15,8 +15,6 @@ const phraseAssembly = () => {
 
 
 phraseAssembly()
-//console.log(phraseAssembly());
 
-//console.log(phraseAssembly());
   
   
