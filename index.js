@@ -12,6 +12,11 @@ const phraseAssembly = () => {
     return (`${subject[ranNum()]} ${adverb[ranNum()]} ${adjective[ranNum()]}`);
 }
   
-  phraseAssembly();
+
+
+phraseAssembly()
+//console.log(phraseAssembly());
+
+//console.log(phraseAssembly());
   
   
