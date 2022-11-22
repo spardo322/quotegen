@@ -7,7 +7,11 @@ const adjective = ["a sapaperra", "a pirobo", "a gonococo", "a carechimba", "a c
 const ranNum = () => {
     return Math.floor(Math.random() * 5); 
 }
+
+const phraseAssembly = () => {
+    return (`${subject[ranNum()]} ${adverb[ranNum()]} ${adjective[ranNum()]}`);
+}
   
-  
+  phraseAssembly();
   
   
